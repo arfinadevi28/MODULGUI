@@ -26,6 +26,8 @@
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/LATI1.PNG)
 
 # latihan 3
+![Alt text](
+![Alt text](
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/biodataideal.PNG)
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/beratideealll.PNG)
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/tubuhideal1.PNG)

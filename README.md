@@ -26,6 +26,7 @@
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/LATI1.PNG)
 
 # latihan 3
+![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/latbola3.PNG)
 ![Alt text](
 ![Alt text](
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/biodataideal.PNG)

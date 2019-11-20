@@ -28,7 +28,9 @@
 # latihan 3
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/latbola3.PNG)
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/LAAAT3.PNG)
-![Alt text](
+![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/latkubus3.PNG)
+
+# uji Kebolehan
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/biodataideal.PNG)
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/beratideealll.PNG)
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/tubuhideal1.PNG)

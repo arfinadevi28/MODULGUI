@@ -6,7 +6,7 @@
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/latihan2.PNG)
 
 # latihan 3
-![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/latihan3.PNG)
+![Alt text](
 
 # latihan 4
 ![Alt text](https://github.com/arfinadevi28/MODULGUI/blob/master/latihan4.PNG)
